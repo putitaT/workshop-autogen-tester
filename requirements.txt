@@ -3,3 +3,4 @@ autogen-ext[openai,redis,docker]
 docker
 autogenstudio
 aiohttp
+pandas
